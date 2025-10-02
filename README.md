@@ -37,5 +37,3 @@ Annotates the video with angle, push-up count, and pose landmarks.
 Colors and styles of text and landmarks updated for better visibility.
 Output video encoded with H.264 codec for compatibility.
 
-## License
-This project is open source under the MIT License.
