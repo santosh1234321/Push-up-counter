@@ -21,7 +21,7 @@ Run the Streamlit app:
 
 text
 streamlit run pushup_counter.py
-##Steps to use:
+## Steps to use:
 Upload your push-up video file via the web interface.
 The app processes the video, showing real-time progress.
 View the total push-ups counted once processing completes.
